@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Wireframe GRUPO: 04-5
-<<<<<<< HEAD
 =======
 # P0_wireframe
 
