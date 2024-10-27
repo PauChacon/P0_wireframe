@@ -50,4 +50,4 @@ Aqui volvemos a tener la barra superior. Debajo tenemos directamente todas las n
 
 ## CONCLUSIÓN
 
-El diseño es simple y le faltan cosas ya que es de baja fidelidad. Seguro que habran cosas de la app que en el diseño final de alta fidelidad(Mock Up) cambiaran, seran añadidadas o se eliminaran. 
+El diseño es simple y le faltan cosas ya que es de baja fidelidad. Seguro que habran cosas de la app que en el diseño final de alta fidelidad (Mock Up) cambiaran, seran añadidadas o se eliminaran. 
