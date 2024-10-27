@@ -44,7 +44,7 @@ En esta opcion es muy parecido al login pero se le añade mas cajas de texto par
 
 ## NOTICIES 
 
-Aqui volvemos a tener la barra superior. Debajo tenemos directamente todas las noticias colgadas y un boton para colgar noticias.
+Aqui volvemos a tener la barra superior. Debajo tenemos directamente todas las noticias colgadas, y un boton para colgar noticias.
 
 ![IMG_1038](https://github.com/user-attachments/assets/a886e9f3-1c1b-4de0-8c83-e946accecbf7)
 
