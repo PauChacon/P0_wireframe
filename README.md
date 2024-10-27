@@ -47,7 +47,3 @@ En esta opcion es muy parecido al login pero se le añade mas cajas de texto par
 Aqui volvemos a tener la barra superior. Debajo tenemos directamente todas las noticias colgadas, y un boton para colgar noticias.
 
 ![IMG_1038](https://github.com/user-attachments/assets/a886e9f3-1c1b-4de0-8c83-e946accecbf7)
-
-## CONCLUSIÓN
-
-El diseño es simple y le faltan cosas ya que es de baja fidelidad. Seguro que habran cosas de la app que en el diseño final de alta fidelidad (Mock Up) cambiaran, seran añadidadas o se eliminaran. 
